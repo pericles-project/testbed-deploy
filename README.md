@@ -20,12 +20,15 @@ PERICLES Test-Bed Deployment
 
 ### Digital Archive (Common)
 
+
 - [iRODS 3.3.1](http://irods.sdsc.edu/cgi-bin/upload18.cgi/irods3.3.1.tgz)
 - [Python](https://python.org) 2.7.6
 - [PyRods 3.3.4](https://irodspython.googlecode.com/git/Downloads/PyRods-3.3.4.tar.gz)
 - [Apache HTTPD 2.2](http://httpd.apache.org/docs/2.2/)
 - [uWSGI](http://uwsgi-docs.readthedocs.org/) 2.0.x
-- Alloy (CDMI API)
+- API Provider, choice of:
+  - Alloy (CDMI)?
+  - Storage Layer Target?
 
 
 ### Arts & Media

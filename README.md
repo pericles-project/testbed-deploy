@@ -2,6 +2,20 @@ PERICLES Test-Bed Deployment
 ============================
 
 
+## Repository Structure
+
+- `boxes`: Building boxes of test-bed infrastructure
+  - `management`: Data Management
+    - `scripts`: bootstrap.sh, Vagrantfile
+    - `configs`: Database schemas etc.
+  - `ingest`: Ingest
+    - `scripts`: bootstrap.sh, Vagrantfile
+    - `configs`
+  - `storage`: Archival Storage
+    - `scripts`: bootstrap.sh, Vagrantfile
+    - `configs`: iRODS build config etc.
+- `docs`: Documentation
+
 ## Software Stack(s)
 
 ### Digital Archive (Common)

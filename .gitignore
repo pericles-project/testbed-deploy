@@ -1,0 +1,27 @@
+# Python compiled/optimized files
+*.py[co]
+
+# Python packaging/distribution
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+.settings
+
+# PyCharm
+.idea
+
+# O/S file buffers
+*~
